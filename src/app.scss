@@ -1,11 +1,6 @@
 @import '~bootstrap';
 @import "login.scss";
-:root {
-  --grey: #f0f0f0;
-  --blue: #0076ff;
-  --green: #00e9c3;
-  --orange: #ff9b65;
-}
+@import "variables.scss";
 
 * {
   box-sizing: border-box;
